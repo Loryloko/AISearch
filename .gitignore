@@ -1,0 +1,8 @@
+.env
+.chainlit/
+.files/
+data/
+__pycache__/
+*.pyc
+.venv/
+.vscode/
